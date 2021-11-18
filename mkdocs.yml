@@ -25,3 +25,6 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
+    
+ plugins:
+  - search
