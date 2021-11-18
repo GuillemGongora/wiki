@@ -25,5 +25,10 @@ theme:
   icon:
     logo: logo
     
-plugins:
-    - search
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+  
+    
