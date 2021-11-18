@@ -1,5 +1,10 @@
 site_name: My Docs
 
+nav:
+    - Home: index.md
+    - Test: test.md
+
+
 theme:
   name: null
   custom_dir: material
